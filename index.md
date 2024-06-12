@@ -18,3 +18,7 @@ final String test = "Test";
   "age": 23
 }
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline myt portfolio
+- [ ] Introduce myself to the world
